@@ -1,1 +1,1 @@
-codeforce challenges solution
+codeforce challenges solutions
